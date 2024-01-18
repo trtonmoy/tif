@@ -44,7 +44,7 @@ body {
   line-height: 1.6;
   font-weight: 500;
   overflow-x: hidden;
-  background-color: #f56969;
+  background: linear-gradient(to right, #894effea, #39aca6, #29ffa9d2);
 }
 
 img {
@@ -4767,7 +4767,7 @@ div.latest-item .hover-shape-bg {
 16. Preloader CSS
 ---------------------------------------*/
 section.loader_first {
-  background: #e84f4f;
+  background: linear-gradient(to right, #894effea, #39aca6, #29ffa9d2);
   position: absolute;
   width: 100%;
   height: 100%;
